@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body{
+	background: url(../img/black-earth.jpg);
+}
+header{
+	height: 100px;
+	/*background: black;*/
+	color: #fff;
+	line-height: 100px;
+}
+header a{
+	text-decoration: none;
+	color: #fff;
+	margin-left:20px;
+	margin-right: 10px;
+}
+
+header .one{
+	margin-left: 300px;
+	margin-top: 20px;
+	float: left;
+}
+header .two{
+	height: 40px;
+	width: 40px;
+}
+header .you{
+	float: left;
+	margin-left: 600px;
+}
+header .tow{
+	margin-right: 10px;
+	margin-top: 30px;
+	
+}
+.dbody{
+	height: 640px;
+
+	
+	color: #fff;
+}
+.dbody .body{
+/*	width: 2000px;*/
+	text-align: center;
+	margin: 0 auto;
+
+}
+.q dd:first-of-type{
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.q{
+	height: 640px;
+	width: 1000px;
+	/*border: 2px solid red;*/
+	margin: 0 auto;
+}
+
+.dbody img:first-of-type{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.dbody p{
+	margin-bottom: 15px;
+}
+.dbody dl{
+	height:300px; 
+	width:250px;
+	float: left;
+
+}
+.ann{
+	height: 80px;
+	width: 400px;
+	margin: 0 auto;
+
+}
+.ann button{
+	width: 150px;
+	height: 60px;
+	background: blue;
+	margin-right: 8px;
+	border-radius: 10px;
+}
+.ann button:last-of-type{
+	background: orange;
+}
